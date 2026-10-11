@@ -1,0 +1,6 @@
+{
+  "name": "Maatri Chhaya Preschool & Day Care",
+  "description": "Nurturing Little Hearts, Shaping Bright Futures. Premium, safe, and joyful early childhood education & day care center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
